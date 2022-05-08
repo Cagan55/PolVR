@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 8a023bdecbbe89b48a99dc254de9b429
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Curve.001
+    100002: Curve.002
+    100004: Curve.003
+    100006: Curve.004
+    100008: Empty
+    100010: //RootNode
+    100012: "konteyn\u0131r"
+    100014: "konteyn\u0131r.001"
+    100016: "konteyn\u0131r.002"
+    100018: Landscape
+    100020: Text
+    100022: Text.001
+    100024: Text.002
+    100026: Text.003
+    100028: "\xE7er\xE7eve"
+    100030: "\xE7er\xE7eve.001"
+    100032: "\xE7er\xE7eve.002"
+    400000: Curve.001
+    400002: Curve.002
+    400004: Curve.003
+    400006: Curve.004
+    400008: Empty
+    400010: //RootNode
+    400012: "konteyn\u0131r"
+    400014: "konteyn\u0131r.001"
+    400016: "konteyn\u0131r.002"
+    400018: Landscape
+    400020: Text
+    400022: Text.001
+    400024: Text.002
+    400026: Text.003
+    400028: "\xE7er\xE7eve"
+    400030: "\xE7er\xE7eve.001"
+    400032: "\xE7er\xE7eve.002"
+    2100000: SVGMat.006
+    2100002: SVGMat.007
+    2100004: Material
+    2100006: Material.002
+    2100008: Material.001
+    2100010: Material.003
+    2100012: "\xC7er\xE7eve"
+    2100014: beyaz.002
+    2100016: pencere
+    2100018: "\xC7er\xE7eve.002"
+    2100020: "Konteyn\u0131r.002"
+    2100022: "konteyn\u0131r2.001"
+    2100024: cam
+    2100026: "Konteyn\u0131r"
+    2100028: beyaz
+    2100030: pencere.001
+    2100032: "\xC7er\xE7eve.001"
+    2100034: "konteyn\u0131r2"
+    2100036: "Konteyn\u0131r.001"
+    2100038: beyaz.001
+    2100040: pencere.002
+    2100042: "\xC7er\xE7eve.003"
+    2100044: "konteyn\u0131r2.002"
+    2300000: Curve.001
+    2300002: Curve.002
+    2300004: Curve.003
+    2300006: Curve.004
+    2300008: "konteyn\u0131r"
+    2300010: "konteyn\u0131r.001"
+    2300012: "konteyn\u0131r.002"
+    2300014: Landscape
+    2300016: Text
+    2300018: Text.001
+    2300020: Text.002
+    2300022: Text.003
+    2300024: "\xE7er\xE7eve"
+    2300026: "\xE7er\xE7eve.001"
+    2300028: "\xE7er\xE7eve.002"
+    3300000: Curve.001
+    3300002: Curve.002
+    3300004: Curve.003
+    3300006: Curve.004
+    3300008: "konteyn\u0131r"
+    3300010: "konteyn\u0131r.001"
+    3300012: "konteyn\u0131r.002"
+    3300014: Landscape
+    3300016: Text
+    3300018: Text.001
+    3300020: Text.002
+    3300022: Text.003
+    3300024: "\xE7er\xE7eve"
+    3300026: "\xE7er\xE7eve.001"
+    3300028: "\xE7er\xE7eve.002"
+    4300000: Curve.002
+    4300002: Curve.003
+    4300004: Curve.001
+    4300006: Curve.004
+    4300008: Landscape
+    4300010: Text
+    4300012: Text.001
+    4300014: Text.002
+    4300016: Text.003
+    4300018: "\xE7er\xE7eve"
+    4300020: "konteyn\u0131r"
+    4300022: "konteyn\u0131r.001"
+    4300024: "\xE7er\xE7eve.001"
+    4300026: "konteyn\u0131r.002"
+    4300028: "\xE7er\xE7eve.002"
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
